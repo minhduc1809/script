@@ -1,4 +1,3 @@
-// Tạo object student
 let student = {
     name: "Duc",
     age: 19,
